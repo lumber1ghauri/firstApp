@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Ukasha Zahid</h1>
+      <h1 className="center-text">Ukasha Zahid</h1>
       <p>I am learning the MERN Stack</p>
 
       <h2>My Goals for MERN Stack</h2>
